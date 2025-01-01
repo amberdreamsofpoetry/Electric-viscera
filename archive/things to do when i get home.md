@@ -1,0 +1,7 @@
+- put warmer clothes out or on. make sure they're easily available for the morning when i'm most likely to forget to put them on.
+- clear youtube history. just skim for the real trash that needs to be purged. most of the rest of it is fine to be eventual ancient history.
+- finish `From-desolation`. it just needs to be uploaded.
+- download stuff from [[things to download]]
+- 4CHAN. DISCORD. YOUTUBE. EXIST.
+	- _Cult of Done_ to come-back-to's
+- see which cgpt convos are worth preserving
