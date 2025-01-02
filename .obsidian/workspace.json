@@ -11,14 +11,10 @@
             "id": "99d9a9243a1be745",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Long Before Paradise.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Long Before Paradise"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25f7a0b2c6084eef",
@@ -164,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99d9a9243a1be745",
+  "active": "f657a25ecad0cb4b",
   "lastOpenFiles": [
+    "Long Before Paradise.md",
     "daily/2025-01-01.md",
     "Electric-viscera",
     "daily",
     "THINGS I WANTED THAT I COULDN'T HAVE.md",
-    "Long Before Paradise.md",
     "The Presentation/Act II.canvas",
     "archive/journals/journal - 24-12-06.md",
     "bio-essence.md",
