@@ -179,3 +179,4 @@ For some reason, she suddenly stops smiling. "Sorry."
 
 ---
 
+her floret died with vines down her throat
