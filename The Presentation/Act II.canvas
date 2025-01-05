@@ -13,10 +13,12 @@
 		{"id":"4fe385388968707e","type":"text","text":"just a quick greymatter sample! a light draw of the needle and we'll be done~!","x":26,"y":-375,"width":235,"height":135},
 		{"id":"93ff6aae8afe5cfa","type":"text","text":"```\n  NEW YEAR\n SAME GOAL\n ZERO DEATHS\n```","x":-102,"y":-307,"width":230,"height":106},
 		{"id":"4fd951a376921fd2","type":"text","text":"\"Out behind all the door handles, there's an infinite, sprawling road. You're gonna wanna take that for about thirty six breaths and then close your eyes.\"","x":193,"y":-87,"width":250,"height":203},
-		{"id":"afcbad3e3bf1d63e","x":-102,"y":-307,"width":561,"height":150,"type":"text","text":"antidepressants please!\n\nthey don't change the world, but they make the outlook better.\n\nisn't that funny?\n\nwhether the world is worth living for has almost nothing to do with the world at all!\n\nnothing changes when i take that funny blue pill but me, and yet the vices and poisons seem all the sweeter, the effort all the more worthwhile. what changed? are the evils still not detestable? are the chains still not counterproductive? are the futilities still not all-encompassing?\n\nof course! but it doesn't matter! because i'm happy!!! :) <3"},
-		{"id":"75a00fdde859d6d2","x":-201,"y":33,"width":290,"height":66,"type":"text","text":"a rock poking out of a whirlpool. not in the center."},
-		{"id":"82dda42bfbbbb8af","x":-206,"y":-435,"width":126,"height":128,"type":"text","text":"MONEYFLOWINGLIKEWATER"},
-		{"id":"0d45f6eac7dbef0d","x":89,"y":132,"width":250,"height":60,"type":"text","text":"an old wooden barn on a very near horizon"}
+		{"id":"afcbad3e3bf1d63e","type":"text","text":"antidepressants please!\n\nthey don't change the world, but they make the outlook better.\n\nisn't that funny?\n\nwhether the world is worth living for has almost nothing to do with the world at all!\n\nnothing changes when i take that funny blue pill but me, and yet the vices and poisons seem all the sweeter, the effort all the more worthwhile. what changed? are the evils still not detestable? are the chains still not counterproductive? are the futilities still not all-encompassing?\n\nof course! but it doesn't matter! because i'm happy!!! :) <3","x":-102,"y":-307,"width":561,"height":150},
+		{"id":"75a00fdde859d6d2","type":"text","text":"a rock poking out of a whirlpool. not in the center.","x":-201,"y":33,"width":290,"height":66},
+		{"id":"82dda42bfbbbb8af","type":"text","text":"MONEYFLOWINGLIKEWATER","x":-206,"y":-435,"width":126,"height":128},
+		{"id":"0d45f6eac7dbef0d","type":"text","text":"an old wooden barn on a very near horizon","x":89,"y":132,"width":250,"height":60},
+		{"id":"e44b02cd2e5f9f25","type":"text","text":"Alone in a new one room apartment using a new burner to talk to new faceless abandonments of reality\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHY\nCAN'T\nWE\nBE\n`YOUNG`\n````ANYMORE\n```\n","x":-201,"y":-148,"width":253,"height":50},
+		{"id":"f2be6c03349262ac","x":339,"y":-232,"width":124,"height":128,"type":"text","text":"nothing will ever be new again"}
 	],
 	"edges":[]
 }

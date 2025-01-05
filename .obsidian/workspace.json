@@ -11,10 +11,17 @@
             "id": "99d9a9243a1be745",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "The Presentation/Act II.canvas",
+                "viewState": {
+                  "x": 141.64790798498677,
+                  "y": -97.5,
+                  "zoom": -1.142120151820305
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Act II"
             }
           }
         ]
@@ -159,16 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f657a25ecad0cb4b",
+  "active": "99d9a9243a1be745",
   "lastOpenFiles": [
     "Long Before Paradise.md",
+    "The Presentation/Act II.canvas",
+    "THINGS I WANTED THAT I COULDN'T HAVE.md",
+    "bio-essence.md",
     "daily/2025-01-01.md",
     "Electric-viscera",
     "daily",
-    "THINGS I WANTED THAT I COULDN'T HAVE.md",
-    "The Presentation/Act II.canvas",
     "archive/journals/journal - 24-12-06.md",
-    "bio-essence.md",
     "The Presentation/Act I.canvas",
     "the presentation/Test - Copy.canvas",
     "the presentation/Prelude.canvas",
